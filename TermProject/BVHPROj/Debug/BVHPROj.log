@@ -1,0 +1,109 @@
+﻿빌드 시작: 2016-12-07 오후 7:54:41
+     1>2 노드의 "C:\Users\Eye-Ris\Desktop\BVHPROj\BVHPROj\BVHPROj.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "Debug\BVHPROj.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\BVHPROj.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BVH.cpp BVHPlayer.cpp
+         BVHPlayer.cpp
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(83): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(87): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(91): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(96): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(102): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(122): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(131): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(139): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(144): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvhplayer.cpp(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+         BVH.cpp
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(83): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(87): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(91): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(96): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(102): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(122): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(131): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(139): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\ase.h(144): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 'sscanf' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(46): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(48): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(108): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(137): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(152): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(154): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(156): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(174): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(177): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(184): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(206): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(208): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(213): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(215): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(225): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(231): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(271): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(290): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(303): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\eye-ris\desktop\bvhproj\bvhproj\bvh.cpp(310): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         코드를 생성하고 있습니다...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BVHPROj.exe.embed.manifest.res" Debug\BVHPROj_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BVHPROj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.lib" /MACHINE:X86 Debug\BVHPROj.exe.embed.manifest.res
+         Debug\BVH.obj
+         Debug\BVHPlayer.obj
+       Manifest:
+         "Debug\BVHPROj.exe.embed.manifest" 파일을 삭제하고 있습니다.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\BVHPROj.exe.embed.manifest" /manifest Debug\BVHPROj.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BVHPROj.exe.embed.manifest.res" Debug\BVHPROj_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BVHPROj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.lib" /MACHINE:X86 Debug\BVHPROj.exe.embed.manifest.res
+         Debug\BVH.obj
+         Debug\BVHPlayer.obj
+         BVHPROj.vcxproj -> C:\Users\Eye-Ris\Desktop\BVHPROj\Debug\BVHPROj.exe
+       FinalizeBuildStatus:
+         "Debug\BVHPROj.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\BVHPROj.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Eye-Ris\Desktop\BVHPROj\BVHPROj\BVHPROj.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.04
